@@ -1,6 +1,6 @@
 # Hi, I'm Hammad 👋
 
-**AI Specialist and Full-Stack Developer in Berlin.** I build AI systems that hold up in real use: custom RAG pipelines, agentic workflows, local and cloud LLM applications, and MCP tool servers, delivered as complete products.
+**AI Engineer and Full-Stack Developer in Berlin.** I build AI systems that hold up in real use: custom RAG pipelines, agentic workflows, local and cloud LLM applications, and MCP tool servers, delivered as complete products.
 
 MSc student in Professional IT Business & Digitalization at HTW Berlin. Open to opportunities in AI engineering and full-stack development.
 
