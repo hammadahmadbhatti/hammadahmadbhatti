@@ -23,7 +23,7 @@ MSc student in Professional IT Business & Digitalization at HTW Berlin. Open to 
 
 `LangChain` `LangGraph` `Chroma` `Ollama` `MCP` `FastAPI` · 106 offline tests
 
-## More AI projects
+## More projects
 
 | Project | What it does | Built with |
 |---|---|---|
@@ -35,9 +35,9 @@ MSc student in Professional IT Business & Digitalization at HTW Berlin. Open to 
 
 ## Tech stack
 
-**AI:** Python · LangChain · LangGraph · ChromaDB · Ollama · OpenAI and Claude APIs · MCP · RAG · prompt engineering
-**Web:** TypeScript · React · Next.js · Node.js · FastAPI · PostgreSQL
-**Apple:** Swift · SwiftUI
+**AI:** Python · LangChain · LangGraph · ChromaDB · Ollama · OpenAI and Claude APIs · MCP · RAG · prompt engineering<br>
+**Web:** TypeScript · React · Next.js · Node.js · FastAPI · PostgreSQL<br>
+**Apple:** Swift · SwiftUI<br>
 **Cloud:** AWS (Lambda, S3, CloudFront, API Gateway) · Docker
 
 # 📊 GitHub Stats:
