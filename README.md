@@ -1,11 +1,45 @@
-# 💫 About Me:
-My name is Hammad, and I am currently pursuing a Master's degree in IT Business and Digitalization at HTW Berlin. I possess a keen interest in projects that enhance my technical competencies while exploring the impact of artificial intelligence on technology and business. <br><br>I have developed expertise in frontend development utilizing HTML5, CSS3, JavaScript, TypeScript, React.js, and Vue.js, with a strong emphasis on responsive design. In terms of backend development, I work proficiently with PHP (utilizing frameworks such as Laravel and Symfony), Node.js, and Python, as well as Java, alongside RESTful APIs. My experience encompasses e-commerce development, content management system creation, payment integration, search engine optimization, and database management using MySQL, MongoDB, and PostgreSQL.<br><br>I am well-versed in DevOps practices, employing tools such as Git, AWS, and Azure, and I am familiar with Agile methodologies. Furthermore, I engage in automated testing with tools like Jest and PHPUnit and possess a foundational understanding of Java, C, and C++. My aspiration is to develop high-performance web applications and e-commerce solutions that align technical excellence with strategic business objectives.<br><br>
+# Hi, I'm Hammad 👋
 
+**AI Specialist and Full-Stack Developer in Berlin.** I build AI systems that hold up in real use: custom RAG pipelines, agentic workflows, local and cloud LLM applications, and MCP tool servers, delivered as complete products.
 
+MSc student in Professional IT Business & Digitalization at HTW Berlin. Open to opportunities in AI engineering and full-stack development.
 
+[Portfolio](https://hammadahmadbhatti.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/hammad187/)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+## What I work on
+
+- **Custom RAG:** chunking, local embeddings, vector search with Chroma, retrieval for prompts, evidence with sources, and a refusal path when retrieval finds nothing
+- **Agentic AI:** LangGraph state graphs with conditional routing, review-and-revise loops and self-correcting question answering
+- **LLM engineering:** switchable providers (Ollama, MLX, OpenAI-compatible APIs, Claude), structured output, fallback chains, prompting small local models
+- **MCP:** Model Context Protocol servers that expose a system's tools to Claude Desktop and other agents
+- **Guardrails:** checking generated claims and figures against their sources, so models cannot invent offers or numbers
+- **Shipping it:** FastAPI, Next.js and React, Swift for iOS and macOS, serverless AWS, tests that run without a network or a model
+
+## Featured: AdStrategist
+
+[![AdStrategist architecture](https://raw.githubusercontent.com/hammadahmadbhatti/AdStrategist/main/docs/images/architecture.svg)](https://github.com/hammadahmadbhatti/AdStrategist)
+
+**[AdStrategist](https://github.com/hammadahmadbhatti/AdStrategist)** is a local-first agentic RAG system. One product link goes in; competitor research, keyword research, a budget plan, Google, Meta and TikTok campaigns and a video ad come out. It runs on an 8 GB laptop with a 3B model.
+
+`LangChain` `LangGraph` `Chroma` `Ollama` `MCP` `FastAPI` · 106 offline tests
+
+## More AI projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| [Loopwise](https://github.com/hammadahmadbhatti/loopwise) | Customer feedback platform: multilingual analysis, theme discovery, evidence-based prioritisation, close-the-loop notifications | Python, FastAPI, Next.js, Claude / OpenAI / Ollama |
+| [RAG-Pipeline](https://github.com/hammadahmadbhatti/RAG-Pipeline) | RAG experiments: retrieval evaluation, agentic RAG and vectorless RAG over your own documents | Python, LangChain, notebooks |
+| [Voice Task Manager](https://github.com/hammadahmadbhatti/voice-task-manager) | Real-time voice assistant that manages tasks: speech to text, LLM tool calls, text to speech, with interruption handling | TypeScript, Next.js, Socket.IO |
+| [AudioScribe](https://github.com/hammadahmadbhatti/AudioScribe) | Transcription and translation for macOS and iOS that runs fully on the device | Swift, on-device speech models |
+| [JobScout](https://github.com/hammadahmadbhatti/JobScout) | Native Mac app that searches jobs across several platforms and company career pages | SwiftUI |
+
+## Tech stack
+
+**AI:** Python · LangChain · LangGraph · ChromaDB · Ollama · OpenAI and Claude APIs · MCP · RAG · prompt engineering
+**Web:** TypeScript · React · Next.js · Node.js · FastAPI · PostgreSQL
+**Apple:** Swift · SwiftUI
+**Cloud:** AWS (Lambda, S3, CloudFront, API Gateway) · Docker
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=@hammadahmadbhatti&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=@hammadahmadbhatti&theme=dark&hide_border=false)<br/>
@@ -18,6 +52,3 @@ My name is Hammad, and I am currently pursuing a Master's degree in IT Business 
 ![](https://github-contributor-stats.vercel.app/api?username=@hammadahmadbhatti&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
