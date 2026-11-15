@@ -19,7 +19,7 @@ MSc student in Professional IT Business & Digitalization at HTW Berlin. Open to 
 
 [![AdStrategist architecture](https://raw.githubusercontent.com/hammadahmadbhatti/AdStrategist/main/docs/images/architecture.svg)](https://github.com/hammadahmadbhatti/AdStrategist)
 
-**[AdStrategist](https://github.com/hammadahmadbhatti/AdStrategist)** is a local-first agentic RAG system. One product link goes in; competitor research, keyword research, a budget plan, Google, Meta and TikTok campaigns and a video ad come out. It runs on an 8 GB laptop with a 3B model.
+**[AdStrategist](https://github.com/hammadahmadbhatti/AdStrategist)** automates marketing research and builds ready-made ad campaigns. Give it a product link and it researches competitors, keywords and market gaps, proposes a budget, and delivers campaigns for Google, Meta and TikTok together with a video ad. It is built as a local-first agentic RAG system: it runs on an 8 GB laptop with a 3B model and can switch to a paid model for the final write-up.
 
 `LangChain` `LangGraph` `Chroma` `Ollama` `MCP` `FastAPI` · 106 offline tests
 
